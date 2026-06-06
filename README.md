@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://chat.xingsuancn.com/"><img src="./docs/logo.png" width="180" height="180" alt="金销数据云客服 logo"></a>
+<a href="https://jinxiaoai.com/"><img src="./docs/logo.png" width="180" height="180" alt="金销数据云客服 logo"></a>
 
 ⚡ **专业的通用电商 SaaS 智能客服平台** ⚡
 
 金销数据云智能客服是基于大语言模型（LLM）打造的专业电商客服 SaaS 解决方案，专为电商行业量身定制。无缝对接主流电商平台，支持微信、千牛、抖音、飞鸽、拼多多、小红书、京东、淘宝、京麦等多平台统一管理，让您的客服工作更智能、更高效！
 
-🌟 **在线体验**: [https://chat.xingsuancn.com/](https://chat.xingsuancn.com/)
+🌟 **在线体验**: [https://jinxiaoai.com/](https://jinxiaoai.com/)
 
 </div>
 
@@ -41,7 +41,7 @@
 ## ✨ 核心功能
 
 <div align="center">
-<a href="https://chat.xingsuancn.com/"><img src="./docs/intro1.jpg" width="480" alt="金销数据云智能客服功能展示"></a>
+<a href="https://jinxiaoai.com/"><img src="./docs/intro1.jpg" width="480" alt="金销数据云智能客服功能展示"></a>
 </div>
 
 ### 🔥 主要特性
@@ -105,9 +105,9 @@
 
 **🔥 扫码添加客服进群交流**
 
-<img src="https://image.xingsuancn.com/docimage/20250721190715043.png" width="200" alt="微信客服二维码">
+<img src="https://image.jinxiaoai.com/docimage/20250721190715043.png" width="200" alt="微信客服二维码">
 
-**🌐 在线体验**: [https://chat.xingsuancn.com/](https://chat.xingsuancn.com/)
+**🌐 在线体验**: [https://jinxiaoai.com/](https://jinxiaoai.com/)
 
 </div>
 
@@ -204,7 +204,7 @@
 
 **⭐ 如果这个项目对您有帮助，请不要忘记给我们一个 Star！⭐**
 
-**🚀 立即体验：[https://chat.xingsuancn.com/](https://chat.xingsuancn.com/) 🚀**
+**🚀 立即体验：[https://jinxiaoai.com/](https://jinxiaoai.com/) 🚀**
 
 <a href="#readme">
     <img src="https://img.shields.io/badge/-返回顶部-7d09f1.svg" alt="#" align="right">
